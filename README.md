@@ -28,10 +28,9 @@ This project analyzes the US public debt, focusing on:
 - **Intragovernmental Holdings**: Debt held by US government agencies.
 - **Total Public Debt Outstanding**: Total of the above two.
 
-## How to Use
-1. Clone the repository.
-2. Open the Excel file to explore the data.
-3. Review charts and insights.
+## How to view
+1. Open the Excel file to explore the data.
+2. Review charts and insights.
 
 ## Conclusion
 US public debt has been steadily increasing, with significant spikes in certain years. It’s projected to keep rising in the next few years.
