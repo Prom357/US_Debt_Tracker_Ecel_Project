@@ -36,4 +36,4 @@ This project analyzes the US public debt, focusing on:
 US public debt has been steadily increasing, with significant spikes in certain years. It’s projected to keep rising in the next few years.
 
 ## Contact
-For questions or feedback, reach out to [your-email@example.com].
+For questions or feedback, reach out to okunborpromise5@gmail.com.
